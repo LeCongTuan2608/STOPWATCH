@@ -1,0 +1,11 @@
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\bin\Debug\STOPWATCH.exe.config
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\bin\Debug\STOPWATCH.exe
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\bin\Debug\STOPWATCH.pdb
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.csproj.AssemblyReference.cache
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.csproj.SuggestedBindingRedirects.cache
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.Form1.resources
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.Properties.Resources.resources
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.csproj.GenerateResource.cache
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.csproj.CoreCompileInputs.cache
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.exe
+D:\CNTT-K61\Learn\Lap trinh API\STOPWATCH\STOPWATCH\obj\Debug\STOPWATCH.pdb
